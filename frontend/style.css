@@ -1,0 +1,27 @@
+h1{
+    background-color: rgb(246, 240, 248);
+    color: rgb(179, 19, 19);
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    background-color: rgb(54, 231, 69);
+}
+div{
+    text-align: center;
+    border: 2px solid black;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    width: 400px;
+    background-color: rgb(88, 218, 238);
+    margin: 0 auto;
+
+}
+p{
+
+}
